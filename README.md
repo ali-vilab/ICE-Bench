@@ -28,7 +28,7 @@
 Set up the environment for running the evaluation scripts.
 
 ```bash
-conda env create -f environment.yml
+pip install -r requirements.txt
 ```
 
 ### 2. Download and Prepare the Dataset and Models
